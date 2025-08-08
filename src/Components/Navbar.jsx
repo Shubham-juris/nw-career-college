@@ -19,9 +19,9 @@ const Navbar = () => {
 
   const allCourses = [
     { name: "Bartending", href: "bartender-training" },
-    { name: "Digital", href: "digital-marketing" },
+    { name: "Digital Marketing", href: "digital-marketing" },
     { name: "Real Estate", href: "real-estate" },
-    { name: "Makeup", href: "makeup-artist" },
+    { name: "Makeup Artistry", href: "makeup-artist" },
     { name: "IT Course", href: "it-course" },
     { name: "Photography", href: "photography" },
     { name: "Event Planning", href: "event-planning" },

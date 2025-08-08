@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 
+
 // ✅ Import all course images
 import bartenderImg from '../assets/bartender.jpg';
 import digitalImg from '../assets/digital1.jpg';
