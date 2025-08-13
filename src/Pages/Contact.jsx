@@ -118,8 +118,8 @@ const Contact = () => {
             <section className="bg-gray-200 py-16 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10">
                     <div className="flip-card w-full max-w-md mx-auto h-[300px]">
-                        <h3 className="text-xl font-semibold text-[#0D92F4] mb-2">
-                            🎯 Our Mission
+                         <h3 >🎯
+                            <span className="text-3xl font-bold bg-gradient-to-br from-blue-500 to-indigo-600 bg-clip-text text-transparent mb-2"> Our Mission</span>
                         </h3>
                         <p className="text-gray-700 font-bold text-2xl">
                             To empower students through quality education and help them build

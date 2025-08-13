@@ -207,12 +207,12 @@ const HeroSection = () => {
               />
             </div>
             <div>
-              <h3 className="text-5xl font-semibold mb-3 bg-[#0D92F4] text-white">State of the Art Campus</h3>
-              <p className="text-gray-700 mb-4">
+              <h2 className="px-2 bg-gradient-to-br from-blue-500 to-indigo-600 bg-clip-text text-4xl font-bold text-transparent">State of the Art Campus</h2>
+              <p className="text-gray-700 mb-4 font-bold">
                 Modern classrooms, dedicated research labs, lush green spaces, and
                 student lounges equipped for a seamless learning experience.
               </p>
-              <ul className="list-disc list-inside text-gray-700 space-y-2">
+              <ul className="list-disc list-inside text-gray-700 space-y-2 font-bold">
                 <li>Library with digital archives</li>
                 <li>Advanced science & engineering labs</li>
                 <li>Student center & innovation hubs</li>
